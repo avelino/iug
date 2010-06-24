@@ -5,6 +5,7 @@
 #
 # Authors:
 #  Laudeci Oliveira <laudeci@ubuntu.com>
+#  Thiago Avelino <thiagoavelinoster@gmail.com>
 #
 # This program is free software; you can redistribute it and/or modify it under
 # the terms of the GNU General Public License as published by the Free Software
@@ -21,7 +22,7 @@
 # Place, Suite 330, Boston, MA 02111-1307 USA
 #
 __version__ = "1.0"
-__author__ = 'Laudeci "Pretto" Oliveira'
+__author__ = 'Thiago Avelino AND Laudeci "Pretto" Oliveira'
 
 # internal imports
 from warnings import warn
