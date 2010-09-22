@@ -33,7 +33,7 @@ class AboutDialog(gtk.AboutDialog):
 		self.set_website("http://www.ubuntugames.org")
 		self.set_comments(MSG_000022)
 		self.set_artists(['Carlos Donizete "Coringao" <coringao@ubuntu.com>'])
-		self.set_authors(['Laudeci Oliveira <laudeci@ubuntu.com>' , 'Carlos Donizete <coringao@ubuntu.com>'])
+		self.set_authors(['Laudeci Oliveira <laudeci@ubuntu.com>', 'Thiago Avelino <thiagoavelinoster@gmail.com>', 'Carlos Donizete <coringao@ubuntu.com>'])
 		self.set_copyright("Copyright (C) 2009 Carlos Donizete <coringao@ubuntu.com>")
 		self.set_license(MSG_000023)
 		self.run()
